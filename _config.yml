@@ -10,7 +10,7 @@ title:            Midan
 email:            your-email@domain.com
 description:      Clean and Fast Jekyll Blog Theme
 baseurl:          '' # The subpath of your site, e.g. /blog
-url:              'http://midan-jekyll.aspirethemes.com' # The base hostname & protocol for your site
+url:              'https://ismly.github.io/gsdjhsjdhhdskds' # The base hostname & protocol for your site
 github_username:  aspirethemes
 twitter_username: aspirethemes
 
@@ -52,5 +52,5 @@ authors:
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
     email:            info@aspirethemes.com
     website:          http://aspirethemes.com
-    github_username:  ahmadajmi
+    github_username:  ismly
     twitter_username: ahmadajmi
